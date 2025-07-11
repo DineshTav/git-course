@@ -4,3 +4,6 @@ change the role of users
 Code added in feature2 bracnch
 Admin can manage database
 Closing the connection
+
+change 1
+change 2
