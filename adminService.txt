@@ -1,2 +1,5 @@
 admin can add and remove users
 change the role of users
+
+Code added in feature2 bracnch
+Admin can manage database
