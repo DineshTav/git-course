@@ -7,5 +7,5 @@ Admin can manage database
 Closing the oracle database connection
 
 change 1
-change 2 in dinesh's database
+change 2 in main database
 q
