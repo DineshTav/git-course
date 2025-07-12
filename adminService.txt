@@ -3,8 +3,7 @@ change the role of users
 
 Code added in feature2 bracnch
 Admin can manage database
-Closing the oracle database connection
+Closing the mysql database connection
 
 change 1
 change 2 in dinesh's database
-q
